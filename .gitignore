@@ -1,0 +1,18 @@
+# Arduino / PlatformIO / Build outputs
+build/
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+
+# IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
